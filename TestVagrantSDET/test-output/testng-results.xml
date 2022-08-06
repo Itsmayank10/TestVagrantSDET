@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Test Failed]]>
+    </line>
+    <line>
+      <![CDATA[Test passed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-05T17:04:57 IST" name="Default suite" finished-at="2022-08-05T17:06:43 IST" duration-ms="105983">
+    <groups>
+    </groups>
+    <test started-at="2022-08-05T17:04:57 IST" name="Default test" finished-at="2022-08-05T17:06:43 IST" duration-ms="105983">
+      <class name="Test.CompareData">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test.CompareData@235834f2]" started-at="2022-08-05T17:04:57 IST" name="openBrowser" finished-at="2022-08-05T17:05:49 IST" duration-ms="52005" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="getData()[pri:0, instance:Test.CompareData@235834f2]" started-at="2022-08-05T17:05:49 IST" name="getData" finished-at="2022-08-05T17:06:43 IST" duration-ms="53931" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Failed]]>
+            </line>
+            <line>
+              <![CDATA[Test passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getData -->
+      </class> <!-- Test.CompareData -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
